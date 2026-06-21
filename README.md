@@ -7,22 +7,18 @@ An AI-powered incident response bot that watches Prometheus alerts, generates ru
 ## Demo
 
 ### Slack runbook notification
-> Replace with a screenshot of the Slack #incidents message showing the AI-generated runbook
 
 ![Slack runbook notification](docs/screenshots/slack-runbook.png)
 
 ### Prometheus alert firing
-> Replace with a screenshot of http://localhost:9090/alerts showing AppPodsDown in Firing state
 
 ![Prometheus alert firing](docs/screenshots/prometheus-firing.png)
 
 ### GitHub Actions pipeline passing
-> Replace with a screenshot of the Actions tab showing all 3 jobs green
 
 ![GitHub Actions pipeline](docs/screenshots/github-actions.png)
 
 ### ArgoCD synced deployment
-> Replace with a screenshot of the ArgoCD UI showing incident-responder Synced + Healthy
 
 ![ArgoCD deployment](docs/screenshots/argocd-synced.png)
 
@@ -103,7 +99,6 @@ git push origin main
 ```
 
 ### Pipeline screenshot
-> Replace with a screenshot showing all 3 jobs passing with durations
 
 ![CI/CD pipeline](docs/screenshots/github-actions.png)
 
